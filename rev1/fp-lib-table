@@ -1,3 +1,4 @@
 (fp_lib_table
   (lib (name xil_conn)(type KiCad)(uri C:\Users\Konrad\hw\thumbinator-hw\xil_conn.pretty)(options "")(descr ""))
+  (lib (name xil_logos)(type KiCad)(uri C:\Users\Konrad\hw\thumbinator-hw\xil_logos.pretty)(options "")(descr ""))
 )
