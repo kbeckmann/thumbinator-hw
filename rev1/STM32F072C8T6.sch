@@ -149,10 +149,6 @@ NoConn ~ 2350 2500
 NoConn ~ 2350 2700
 NoConn ~ 2350 2800
 NoConn ~ 2350 2900
-NoConn ~ 2350 3100
-NoConn ~ 2350 3200
-NoConn ~ 2350 3300
-NoConn ~ 2350 4100
 NoConn ~ 2350 4200
 NoConn ~ 2350 4300
 NoConn ~ 2350 4400
@@ -170,4 +166,20 @@ Text HLabel 10250 4500 2    60   Input ~ 0
 SWCLK
 Wire Wire Line
 	9950 4500 10250 4500
+Text HLabel 2000 3100 0    60   Input ~ 0
+PB0
+Wire Wire Line
+	2000 3100 2350 3100
+Text HLabel 2000 3200 0    60   Input ~ 0
+PB1
+Text HLabel 2000 3300 0    60   Input ~ 0
+PB2
+Text HLabel 2000 4100 0    60   Input ~ 0
+PB10
+Wire Wire Line
+	2000 3200 2350 3200
+Wire Wire Line
+	2350 3300 2000 3300
+Wire Wire Line
+	2000 4100 2350 4100
 $EndSCHEMATC
