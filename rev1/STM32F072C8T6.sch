@@ -133,7 +133,6 @@ Wire Wire Line
 	2000 3900 2350 3900
 Wire Wire Line
 	2000 4000 2350 4000
-NoConn ~ 9950 3100
 NoConn ~ 9950 3200
 NoConn ~ 9950 3300
 NoConn ~ 9950 3400
@@ -182,4 +181,8 @@ Wire Wire Line
 	2350 3300 2000 3300
 Wire Wire Line
 	2000 4100 2350 4100
+Text HLabel 10250 3100 2    60   Input ~ 0
+PA0
+Wire Wire Line
+	10250 3100 9950 3100
 $EndSCHEMATC
