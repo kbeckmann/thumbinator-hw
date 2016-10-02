@@ -1,4 +1,4 @@
-update=2016-10-01 23:49:39
+update=Sun 02 Oct 2016 10:37:03 PM CEST
 version=1
 last_client=kicad
 [pcbnew]
@@ -58,4 +58,4 @@ LibName26=opto
 LibName27=atmel
 LibName28=contrib
 LibName29=valves
-LibName30=C:/Users/Konrad/hw/thumbinator-hw/schema-components/stm32
+LibName30=stm32
