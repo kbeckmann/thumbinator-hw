@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name xil_conn)(type KiCad)(uri "$(KIPRJMOD)/../xil_conn.pretty")(options "")(descr ""))
+  (lib (name xil_logos)(type KiCad)(uri "$(KIPRJMOD)/../xil_logos.pretty")(options "")(descr ""))
+  (lib (name smallbutton)(type KiCad)(uri "$(KIPRJMOD)/../smallbutton.pretty")(options "")(descr ""))
+)
